@@ -1,0 +1,9 @@
+font-family = "Iosevka Nerd Font"
+theme = "Aura"
+custom-shader = "./shaders/cursor_smear_fade.glsl"
+cursor-color = #6f6f6f
+font-size = 25
+
+window-width = 66
+window-height = 32
+keybind = shift+enter=text:\x1b\r
